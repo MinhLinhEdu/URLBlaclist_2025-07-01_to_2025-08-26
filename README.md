@@ -1,0 +1,1 @@
+This study employs a blacklist of 11,382 phishing URLs, collected from PhishTank (https://phishtank.org/) between 01 July 2025 and 26 August 2025. Using a blacklist highlights the system’s ability to process continuously updated real-world threat feeds, ensuring practical relevance for phishing detection.
